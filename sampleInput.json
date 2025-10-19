@@ -1,0 +1,7 @@
+{
+  "customer_name": "John Doe",
+  "email": "john.doe@example.com",
+  "query": "Unable to access account dashboard; password reset loop.",
+  "priority": "High",
+  "ticket_id": "TKT-00123"
+}

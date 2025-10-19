@@ -1,0 +1,11 @@
+{
+  "name": "lang-graph-agent",
+  "version": "1.0.0",
+  "description": "SkylarIQ Lang Graph Agent (Node.js, ESM) - customer support workflow",
+  "type": "module",
+  "scripts": {
+    "demo": "node src/runDemo.js"
+  },
+  "author": "Vasudev Patil",
+  "license": "MIT"
+}
